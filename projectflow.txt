@@ -9,7 +9,8 @@
 4. Do a "pip list" on terminal to make sure you have local packages installed.
 
 mango_db password :- 1dU7SEd3FE9Sq4gD  username :- jaswanth6970
-set: $env:MONGODB_URL = "mongodb+srv://jaswanth6970:1dU7SEd3FE9Sq4gD@cluster0.q8voqes.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+set: 
+
 connection string : - mongodb+srv://jaswanth6970:1dU7SEd3FE9Sq4gD@cluster0.q8voqes.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 ----------------------------------------------- MongoDB Setup -----------------------------------------------
 5. Sign up to MongoDB Atlas and create a new project by just providing it a name then next next create.
